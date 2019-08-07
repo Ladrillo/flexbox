@@ -2,8 +2,10 @@
   background-color: yellow;
   border: 5px solid grey;
   height: 170px;
+  /* flex stuff */
   display: flex;
-  /* flex-direction: row; */
+  flex-direction: row;
+  justify-content: space-evenly;
 }
 .animal {
   padding: 10px;
