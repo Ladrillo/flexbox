@@ -2,12 +2,14 @@
   background-color: yellow;
   border: 5px solid grey;
   height: 170px;
+  display: flex;
+  /* flex-direction: row; */
 }
 .animal {
   padding: 10px;
 }
 .dog {
-  border: 5px solid rgb(24, 28, 24);
+  border: 5px solid green;
 }
 .cat {
   border: 5px dashed black;
